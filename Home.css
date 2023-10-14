@@ -1,0 +1,66 @@
+body{
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) ,url(/Images/BG1.jpg);
+        height: fit-content;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+
+
+/* ************************* Navbar styling part ************************* */
+
+.navbar-brand{
+    font-family: 'Brush Script MT', cursive;
+    margin-left: 5%;
+}
+
+ul .nav-item a{
+    text-transform: uppercase;
+    color: black;
+ }
+
+ ul .nav-item a:hover {
+    text-decoration: underline;
+}
+.space{
+    margin-right: 5%;
+}
+
+h1{
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    word-spacing: 10px;
+    letter-spacing: 4px;
+    margin-top: 10%;
+    font-size: 50px;
+}
+.word{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 20px;
+}
+
+/* ************************* Footer styling part ************************* */
+
+footer {
+    background: black;
+    color: white;
+    margin-top: 30%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+hr{
+    border-color: white;
+}
+
+footer a:hover{
+    text-decoration: underline;
+}

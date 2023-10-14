@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* ************************* Button styling part ************************* */
+button{
+    width: 100%;
+}
+
+button{
+    text-transform: uppercase;
+}
+/* ************************* Heading styling part ************************* */
+h1{
+    text-align: center;
+    margin-top: 6%;
+}
